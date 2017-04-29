@@ -1,0 +1,19 @@
+{
+  "name": "typescriptproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjunm13/TypeScriptProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arjunm13/TypeScriptProject/issues"
+  },
+  "homepage": "https://github.com/arjunm13/TypeScriptProject#readme"
+}
