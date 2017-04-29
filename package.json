@@ -2,7 +2,7 @@
   "name": "typescriptproject",
   "version": "1.0.0",
   "description": "",
-  "main": "hello.tsx",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/arjunm13/TypeScriptProject/issues"
   },
-  "homepage": "https://github.com/arjunm13/TypeScriptProject#readme"
+  "homepage": "https://github.com/arjunm13/TypeScriptProject#readme",
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.1.3",
+    "source-map-loader": "^0.2.1",
+    "typescript": "^2.3.2"
+  },
+  "dependencies": {
+    "webpack-dev-server": "^2.4.5"
+  }
 }
